@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^12.12.5",
+    "@types/request-promise": "^4.1.44",
+    "aws-sdk": "^2.563.0"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}

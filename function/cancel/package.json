@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@line/bot-sdk": "^6.8.3",
+    "@types/node": "^12.12.5"
+  }
+}

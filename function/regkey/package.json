@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^12.12.6",
+    "@types/request-promise": "^4.1.44",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
+  }
+}
