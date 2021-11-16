@@ -3,7 +3,7 @@
     "@line/bot-sdk": "^6.8.3",
     "@types/node": "^12.12.5",
     "@types/request-promise": "^4.1.44",
-    "aws-sdk": "^2.564.0",
+    "aws-sdk": "^2.814.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.5"
   }
