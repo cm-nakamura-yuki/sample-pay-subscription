@@ -2,7 +2,7 @@
   "devDependencies": {
     "@types/node": "^12.12.5",
     "@types/request-promise": "^4.1.44",
-    "aws-sdk": "^2.563.0"
+    "aws-sdk": "^2.814.0"
   },
   "dependencies": {
     "@line/bot-sdk": "^6.8.3",
